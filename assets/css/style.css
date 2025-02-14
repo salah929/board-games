@@ -66,6 +66,16 @@ h2 {
     color: white;
 }
 
+#events h4 {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: white;
+    margin-bottom: 2rem;
+    
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
 /* Navbar */
 
 #navbar {
